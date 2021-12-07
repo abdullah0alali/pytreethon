@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pytreethon
+- 👋 Hi, I’m @abdullah0alali
 - 👀 I’m interested in python
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on projects and data analyzis
